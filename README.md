@@ -6,7 +6,7 @@ I am 22 years old, I am a system administrator, currently a student of Informati
 *   🌍  I'm based in Arkhangelsk, Russia
 *   ✉️  You can contact me at [Yushin.AE@yandex.ru](mailto:Yushin.AE@yandex.ru)
 *   🧠  I'm learning Python
-*   ⚡  I'm interested in video editing
+*   🔥  I'm interested in video editing
 
 ### Socials
 
