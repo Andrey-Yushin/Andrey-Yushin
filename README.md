@@ -3,7 +3,7 @@ Hi 👋 My name is Andrey
 
 I am 22 years old, I am a system administrator, currently a student of Informatics and Computer Science.
 
-*   🌍  I'm based in Arkhangelsk, Russia
+*   🌍  I'm based in Russia
 *   ✉️  You can contact me at [Yushin.AE@yandex.ru](mailto:Yushin.AE@yandex.ru)
 *   🧠  I'm learning Python
 
